@@ -1,7 +1,7 @@
 {
   "name": "simple-pcsc",
   "version": "0.0.1",
-  "description": "Simple NFC using pcsclite node wrapper",
+  "description": "Simple PC/SC lib for Node.js as wrapper around node-pcsclite",
   "main": "dist/NFC.js",
   "scripts": {
     "test": "node test/index.js",
