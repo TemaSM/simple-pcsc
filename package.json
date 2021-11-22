@@ -19,7 +19,7 @@
   "author": "Tema Smirnov",
   "license": "MIT",
   "dependencies": {
-    "pcsclite": "^0.4.9"
+    "pcsclite": "^1.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.7.5",
